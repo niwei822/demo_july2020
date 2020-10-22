@@ -1,4 +1,5 @@
 package com.ta.login;
+import org.testng.annotations.Test;
 import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Listeners;
 import org.testng.annotations.Test;
